@@ -1,0 +1,22 @@
+//1.What is "use strict"?
+
+//2.Where can we use "use strict"?
+/*1)entire script  2)inside function*/
+
+//3.Does strict mode apply to all files?
+/*No.
+
+It applies only to:
+
+The script where it is written
+The function where it is written*/
+
+//4.Do arrow functions need "use strict"?
+/*No.
+
+Arrow functions follow strict mode rules from their surrounding scope.*/
+
+//5.Are JavaScript modules strict by default?
+/*Yes.
+
+ES6 modules automatically run in strict mode.*/

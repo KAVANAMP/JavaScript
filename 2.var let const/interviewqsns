@@ -1,0 +1,17 @@
+//1.difference between let,var and const keyword in javascript
+
+//2.Why was let and const introduced when var already existed?
+/*var has some problems:
+
+It is function scoped, not block scoped.
+It allows accidental redeclaration.
+It can create unexpected bugs because of hoisting.*/
+
+//3.Is var function scoped or block scoped?
+/*function scoped*/
+
+//4.Are var, let, and const hoisted?
+
+//5.What is Temporal Dead Zone (TDZ)?
+
+//6.Block scope vs function scope

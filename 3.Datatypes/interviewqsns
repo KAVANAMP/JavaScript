@@ -1,0 +1,16 @@
+//1.Primitive vs Non-primitive
+
+//2.null vs undefined
+
+//3.NaN - NaN's type is number.
+
+//4.== vs ===
+
+//5.Object and Array types
+
+//6.Pass by value vs reference
+
+//7.What is type coercion?
+/*Automatic conversion of one data type into another.*/
+
+//8.BigInt
