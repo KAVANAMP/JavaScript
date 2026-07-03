@@ -18,3 +18,5 @@ console.log(p);
 //5.document.querySelectorAll() - Returns all matching elements.
 let paragraphs = document.querySelectorAll(".text");
 
+
+
