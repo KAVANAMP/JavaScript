@@ -66,9 +66,9 @@ submit.addEventListener("submit", function (event) {
 });
 
 //11.load - Triggered when the page finishes loading.
-let load=window.addEventListener("load", function () {
-    alert("Page Loaded");
-});
+//let load=window.addEventListener("load", function () {
+    //alert("Page Loaded");
+//});
 
 //12.resize - Triggered when the browser window is resized.
 //13.scroll - Triggered when the page is scrolled.

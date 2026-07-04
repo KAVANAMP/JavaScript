@@ -8,9 +8,6 @@ console.log(b, typeof b);
 
 
 
-
-
-
 let movies = ["KGF","RRR","Bahubali"]
 console.log(movies);
 

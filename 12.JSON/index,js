@@ -1,0 +1,61 @@
+// JSON - JSON (JavaScript Object Notation) is a lightweight text format used to store and exchange data between applications.
+
+/* For example:
+
+Browser ↔ Server
+Frontend ↔ Backend
+Mobile App ↔ API */
+
+// JSON Syntax 
+/*SON data is written using:
+
+Curly braces {} for objects
+Square brackets [] for arrays
+Key-value pairs
+Keys must always be enclosed in double quotes
+
+{
+  "name": "Rahul",
+  "age": 22,
+  "isStudent": true
+}
+
+*/
+
+
+//JSON Rules
+/*
+1.Keys must be in double quotes
+ex:
+{
+  "name": "Rahul"
+}
+
+2.String values use double quotes
+ex:
+{
+  "city": "Delhi"
+}
+
+3.Data is stored as key-value pairs
+ex:
+{
+  "name": "Rahul",
+  "age": 22
+}
+
+4.No functions allowed -> invalid
+ex:
+{
+  "name":"Rahul",
+  "greet": function(){}
+}
+
+NOTE : Functions are allowed in JavaScript objects, but not in JSON.
+
+5.No comments ->invalid
+ex:
+{
+  // User name
+  "name":"Rahul"
+}
