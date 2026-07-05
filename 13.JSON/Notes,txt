@@ -1,12 +1,12 @@
-// JSON - JSON (JavaScript Object Notation) is a lightweight text format used to store and exchange data between applications.
+ JSON - JSON (JavaScript Object Notation) is a lightweight text format used to store and exchange data between applications.
 
-/* For example:
+For example:
 
 Browser ↔ Server
 Frontend ↔ Backend
 Mobile App ↔ API */
 
-// JSON Syntax 
+JSON Syntax 
 /*SON data is written using:
 
 Curly braces {} for objects
