@@ -1,0 +1,8 @@
+1.What is a timer in JavaScript?
+2.Difference between setTimeout() and setInterval()?
+3.How do you stop a timer?
+4.What does setTimeout() return?
+5.Why does setTimeout(fn, 0) not execute immediately?
+Ans:Because JavaScript places the callback in the callback queue, and it executes only after the current call stack becomes empty.
+6.Are timers part of JavaScript?
+Ans:setTimeout() and setInterval() are not part of the JavaScript language itself. They are Web APIs provided by browsers (and by environments like Node.js through their runtime).

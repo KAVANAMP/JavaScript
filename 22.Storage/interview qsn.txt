@@ -1,0 +1,13 @@
+1.What is Web Storage?
+Ans:Web Storage is a browser feature used to store data as key-value pairs on the client side.
+
+2.What is the difference between Local Storage and Session Storage?
+
+3.Can Local Storage store objects?
+Ans:No. It stores only strings. Use JSON.stringify() to store objects and JSON.parse() to retrieve them.
+
+4.What is the maximum size of Local Storage?
+Ans:Most browsers allow around 5–10 MB per origin, though the exact limit depends on the browser.
+
+5.Is Local Storage secure?
+Ans:No. Data is stored in plain text in the browser and can be accessed by JavaScript running on the same origin. Do not store sensitive information like passwords or authentication tokens there.
